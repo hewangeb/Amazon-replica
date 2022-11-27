@@ -1,0 +1,31 @@
+[debug] [2022-11-05T02:49:47.790Z] ----------------------------------------------------------------------
+[debug] [2022-11-05T02:49:47.792Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\eve22\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-11-05T02:49:47.793Z] CLI Version:   11.15.0
+[debug] [2022-11-05T02:49:47.793Z] Platform:      win32
+[debug] [2022-11-05T02:49:47.793Z] Node Version:  v18.7.0
+[debug] [2022-11-05T02:49:47.797Z] Time:          Fri Nov 04 2022 22:49:47 GMT-0400 (Eastern Daylight Time)
+[debug] [2022-11-05T02:49:47.797Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-11-05T02:49:47.886Z] Field ".functions" in "firebase.json" is possibly invalid: should be object
+[debug] [2022-11-05T02:49:47.886Z] Object ".functions[0]" in "firebase.json" has unknown property: {"additionalProperty":"hosting"}
+[debug] [2022-11-05T02:49:47.887Z] Field ".functions" in "firebase.json" is possibly invalid: should match some schema in anyOf
+[debug] [2022-11-05T02:49:47.894Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-11-05T02:49:47.895Z] > authorizing via signed-in user (eve22yehwenesi@gmail.com)
+[debug] [2022-11-05T02:49:47.896Z] Field ".functions" in "firebase.json" is possibly invalid: should be object
+[debug] [2022-11-05T02:49:47.896Z] Object ".functions[0]" in "firebase.json" has unknown property: {"additionalProperty":"hosting"}
+[debug] [2022-11-05T02:49:47.896Z] Field ".functions" in "firebase.json" is possibly invalid: should match some schema in anyOf
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\eve22\OneDrive\Desktop\evangadi\phase3\amazon-clone-new
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
